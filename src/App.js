@@ -15,9 +15,9 @@ const App = () => {
           path="/users/:userId"
           render={(props) => <UserPage {...props} />}
         />
-        <Route path="/users" component={Users} />
-        <Route path="/login" component={Login} />
-        <Route path="/" component={Main} />
+        <Route path="/login" exact component={Login} />
+        <Route path="/main" exact component={Main} />
+        <Route path="/" component={Users} />
       </Switch>
     </>
   );
