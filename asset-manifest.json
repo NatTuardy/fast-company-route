@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fast-company-route/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/fast-company-route/static/js/main.7fe1abb6.chunk.js",
+    "main.js.map": "/fast-company-route/static/js/main.7fe1abb6.chunk.js.map",
+    "runtime-main.js": "/fast-company-route/static/js/runtime-main.7c1f4c3a.js",
+    "runtime-main.js.map": "/fast-company-route/static/js/runtime-main.7c1f4c3a.js.map",
+    "static/css/2.983f79de.chunk.css": "/fast-company-route/static/css/2.983f79de.chunk.css",
+    "static/js/2.cef6df4d.chunk.js": "/fast-company-route/static/js/2.cef6df4d.chunk.js",
+    "static/js/2.cef6df4d.chunk.js.map": "/fast-company-route/static/js/2.cef6df4d.chunk.js.map",
+    "static/js/3.62755e50.chunk.js": "/fast-company-route/static/js/3.62755e50.chunk.js",
+    "static/js/3.62755e50.chunk.js.map": "/fast-company-route/static/js/3.62755e50.chunk.js.map",
+    "index.html": "/fast-company-route/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/fast-company-route/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.4a4137e4.chunk.css.map": "/fast-company-route/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.cef6df4d.chunk.js.LICENSE.txt": "/fast-company-route/static/js/2.cef6df4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c1f4c3a.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.cef6df4d.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.7fe1abb6.chunk.js"
+  ]
+}
